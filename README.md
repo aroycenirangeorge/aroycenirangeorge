@@ -104,7 +104,7 @@ Iâ€™m passionate about exploring how technology can solve real-world problems â€
   <a href="https://aroycenirangeorge.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-View%20Now-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+  <a href="https://leetcode.com/AJ-Nira/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </p>
