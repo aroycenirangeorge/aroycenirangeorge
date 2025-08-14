@@ -11,11 +11,9 @@
 
 I’m a **3rd-year Electronics and Communication Engineering** student at **Saveetha Engineering College** with strong interests in **core electronics, VLSI design, and computer science**.
 
-💡 I’m passionate about exploring how technology can solve real-world problems — especially in **AI, Machine Learning, Embedded Systems, VLSI, and Software Development**.  
-⚙️ With a **hands-on, curiosity-driven mindset**, I’m sharpening my skills in **Java, Python, HDL design, and system-level thinking**.  
-🚀 I enjoy challenges that push me to grow **both technically and personally**.  
+I’m passionate about exploring how technology can solve real-world problems — especially in **AI, Machine Learning, Embedded Systems, VLSI, and Software Development**. With a **hands-on, curiosity-driven mindset**, I’m sharpening my skills in **Java, Python, HDL design, and system-level thinking**. I enjoy challenges that push me to grow **both technically and personally**.  
 
-✨ *Open to opportunities* in **circuit design, chip architecture optimization, and intelligent software solutions**.  
+*Open to opportunities* in **circuit design, chip architecture optimization, and intelligent software solutions**.  
 
 *Nandri... ✨*
 
@@ -96,9 +94,20 @@ I’m a **3rd-year Electronics and Communication Engineering** student at **Save
 
 ## 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajroycenirangeorge)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aj.roycenirangeorge@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://aroycenirangeorge.github.io/Portfolio/)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/ajroycenirangeorge">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:aj.roycenirangeorge@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://aroycenirangeorge.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Now-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+</p>
 
 ---
 
