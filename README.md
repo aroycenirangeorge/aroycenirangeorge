@@ -82,6 +82,7 @@ I’m passionate about exploring how technology can solve real-world problems �
 ## 📊 GitHub Stats
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aroycenirangeorge&theme=dark)
+![GitHub Contributions](https://ghchart.rshah.org/aroycenirangeorge)
 
 ---
 
