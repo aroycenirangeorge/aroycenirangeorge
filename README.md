@@ -81,13 +81,12 @@ I’m passionate about exploring how technology can solve real-world problems �
 
 ## 📊 GitHub Stats
 
-![Royce's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aroycenirangeorge&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aroycenirangeorge&layout=compact&theme=tokyonight)  
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aroycenirangeorge&theme=dark)
 
 ---
 
 ## 💻 LeetCode Stats  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/AJ-Nira?theme=dark&ext=contest)](https://leetcode.com/YOUR_LEETCODE_USERNAME/)  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/AJ-Nira?theme=dark&ext=contest)](https://leetcode.com/AJ-Nira/)  
 
 ---
 
