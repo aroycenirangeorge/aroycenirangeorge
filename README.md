@@ -79,6 +79,8 @@ I’m passionate about exploring how technology can solve real-world problems �
 
 ---
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=aroycenirangeorge)
+
 ## 📊 GitHub Stats
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aroycenirangeorge&theme=dark)
