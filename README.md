@@ -1,4 +1,4 @@
-# 👋 Vanakkam, I'm Royce Niran George
+# 👋 Vanakkam, I'm Royce Niran George...
 
 🎓 **Aspiring Engineering Student** | 💻 **Tech Enthusiast** | 🧠 **Lifelong Learner**  
 🔧 **Electronics & Communication** | ⚡ **VLSI Enthusiast** | 🤖 **Software Developer**  
