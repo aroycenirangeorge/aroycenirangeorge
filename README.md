@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 About Meh
+## 🚀 About Me
 
 > *"You can find me somewhere between circuit diagrams and Java classes, probably debugging both. I chose ECE because I couldn't decide between building systems and breaking algorithms — so I do both."*
 
