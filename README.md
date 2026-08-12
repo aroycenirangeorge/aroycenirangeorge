@@ -9,7 +9,7 @@
 
 > *"You can find me somewhere between circuit diagrams and Java classes, probably debugging both. I chose ECE because I couldn't decide between building systems and breaking algorithms — so I do both."*
 
-I’m a **Final-year Electronics and Communication Engineering** student at **Saveetha Engineering College** with strong interests in **core electronics, VLSI design, and computer science**.
+I’m a **final-year Electronics and Communication Engineering** student at **Saveetha Engineering College** with strong interests in **core electronics, VLSI design, and computer science**.
 
 I’m passionate about exploring how technology can solve real-world problems — especially in **AI, Machine Learning, Embedded Systems, VLSI, and Software Development**. With a **hands-on, curiosity-driven mindset**, I’m sharpening my skills in **Java, Python, HDL design, and system-level thinking**. I enjoy challenges that push me to grow **both technically and personally**.  
 
