@@ -27,10 +27,7 @@ Alongside software and data engineering, I continue to explore VLSI design and F
 ## 🏆 Achievements
 
 - 🥈 **Second Runner-up** — SAKEC Chipmonk National Hackathon 2026.
-- 🏅 **DVCon India 2026** — Cleared Stage 3, Team RISC'K.
 - 🚀 **ARM Bharath FPGA Hackathon 2026** — Developed a CNN-based vehicle classification accelerator achieving 89.6% accuracy and approximately 130× speedup over the ARM Cortex-A9 baseline.
-- 🎓 **Synopsys ISWDP Fellow, Cohort 4** — Selected for an 8-week TCAD program in collaboration with Samsung.
-- 🛠️ **CVRDE, DRDO Hardware Internship** — Worked on EMI/EMC testing and signal integrity of military vehicle components.
 
 ---
 
@@ -66,7 +63,7 @@ Hardware-accelerated image signal processing on the Xilinx PYNQ-Z2, implementing
 
 **Data Engineering & Databases:** Python, SQL, MySQL, ETL Concepts, Data Cleaning, Data Transformation
 
-**Programming:** Java, Python, C, C++, JavaScript
+**Programming:** Java, Python, C, JavaScript
 
 **Cloud & DevOps:** AWS EC2, Linux, Git, GitHub Actions, CI/CD, Nginx
 
