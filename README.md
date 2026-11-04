@@ -1,120 +1,134 @@
-# 👋 Vanakkam, I'm Royce Niran George...
+# 👋 Vanakkam, I'm Royce Niran George A!
 
-🎓 **Aspiring Engineering Student** | 💻 **Tech Enthusiast** | 🧠 **Lifelong Learner**  
-🔧 **Electronics & Communication** | ⚡ **VLSI Enthusiast** | 🤖 **Software Developer**  
+**Aspiring Data Engineer | Python & SQL Developer | VLSI Enthusiast**
+
+Final-Year Electronics and Communication Engineering Student  
+Saveetha Engineering College, Chennai
+
+I build data-driven applications and explore how technology can solve real-world problems — from designing data pipelines and intelligent applications to accelerating image processing on FPGAs.
 
 ---
 
 ## 🚀 About Me
 
-> *"You can find me somewhere between circuit diagrams and Java classes, probably debugging both. I chose ECE because I couldn't decide between building systems and breaking algorithms — so I do both."*
+I'm a final-year Electronics and Communication Engineering student with a Minor in Data Science, passionate about transforming raw data into meaningful insights and building reliable data-driven systems.
 
-I’m a **final-year Electronics and Communication Engineering** student at **Saveetha Engineering College** with strong interests in **core electronics, VLSI design, and computer science**.
+My primary focus is **Data Engineering**, with an interest in Python, SQL, database management, cloud technologies, and data pipeline development.
 
-I’m passionate about exploring how technology can solve real-world problems — especially in **AI, Machine Learning, Embedded Systems, VLSI, and Software Development**. With a **hands-on, curiosity-driven mindset**, I’m sharpening my skills in **Java, Python, HDL design, and system-level thinking**. I enjoy challenges that push me to grow **both technically and personally**.  
+Alongside software and data engineering, I continue to explore VLSI design and FPGA-based computing, bringing a hardware-oriented perspective to problem-solving.
 
-*Open to opportunities* in **circuit design, chip architecture optimization, and intelligent software solutions**.  
-
-*Nandri... ✨*
+- 📊 Interested in data pipelines, ETL, SQL, and cloud-based data systems.
+- 💻 Building backend applications and AI-powered tools.
+- ⚡ Exploring RTL design, FPGA development, and hardware acceleration.
+- 🎯 Open to opportunities in Data Engineering, Software Engineering, and VLSI.
 
 ---
 
-## 🛠️ Projects
+## 🏆 Achievements
 
-### 🔹 TiraCross
-🚑 *Emergency medical response system* with smart traffic light control using **ESP32** and real-time ambulance tracking.
+- 🥈 **Second Runner-up** — SAKEC Chipmonk National Hackathon 2026.
+- 🏅 **DVCon India 2026** — Cleared Stage 3, Team RISC'K.
+- 🚀 **ARM Bharath FPGA Hackathon 2026** — Developed a CNN-based vehicle classification accelerator achieving 89.6% accuracy and approximately 130× speedup over the ARM Cortex-A9 baseline.
+- 🎓 **Synopsys ISWDP Fellow, Cohort 4** — Selected for an 8-week TCAD program in collaboration with Samsung.
+- 🛠️ **CVRDE, DRDO Hardware Internship** — Worked on EMI/EMC testing and signal integrity of military vehicle components.
+
+---
+
+## 💻 Featured Projects
+
+### 🔹 [Tiranalyx — AI Log Intelligence](https://github.com/aroycenirangeorge/Tiranalyx)
+
+An AI-powered log analysis application that processes application logs, identifies errors, and generates actionable insights.
+
+**Tech:** Python, Django REST Framework, React, Hugging Face, AWS EC2, Nginx, GitHub Actions
 
 ### 🔹 [TiraDiscounts](https://github.com/aroycenirangeorge/TiraDiscounts)
-📉 *ML-powered system* to optimize pricing for overstock and near-expiry products.
+
+An ML-powered pricing optimization system designed to help retailers manage overstocked and near-expiry products.
+
+**Tech:** Python, Machine Learning
+
+### 🔹 Data Engineering & SQL Projects
+
+Building practical projects focused on data cleaning, transformation, database design, ETL workflows, and analytics.
+
+### 🔹 [ISP Core — FPGA Image Processing](https://github.com/aroycenirangeorge/ISP_Core_FPGA)
+
+Hardware-accelerated image signal processing on the Xilinx PYNQ-Z2, implementing Bayer demosaicing and gain control using HLS.
+
+**Results:** 99.43 FPS at 1280×720 resolution, achieving 15.49× speedup over the ARM Cortex-A9 CPU baseline.
+
+**Tech:** C/C++, Vitis HLS, FPGA, AXI4-Stream
 
 ---
 
-## 🌐 Tech Stack
+## 🛠️ Technical Skills
 
-**Languages:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+**Data Engineering & Databases:** Python, SQL, MySQL, ETL Concepts, Data Cleaning, Data Transformation
 
-**Frontend:**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+**Programming:** Java, Python, C, C++, JavaScript
 
-**Backend & Databases:**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
+**Cloud & DevOps:** AWS EC2, Linux, Git, GitHub Actions, CI/CD, Nginx
 
-**ML/AI:**  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) 
-![YOLOv8](https://img.shields.io/badge/YOLOv8-FF6F00?style=flat&logo=ai&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+**Backend Development:** Django REST Framework, FastAPI, REST APIs
 
-**Embedded Systems:**  
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white) 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)  
+**Data & AI:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
 
-**VLSI Tools:**  
-![Verilog](https://img.shields.io/badge/Verilog-14354C?style=flat&logo=verilog&logoColor=white) 
-![Xilinx Vivado](https://img.shields.io/badge/Xilinx%20Vivado-FCC624?style=flat&logo=xilinx&logoColor=black) 
-![Cadence Virtuoso](https://img.shields.io/badge/Cadence-Virtuoso-red?style=flat)  
+**Frontend:** React, HTML, CSS, Tailwind CSS
 
-**Other Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white) 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
+**VLSI & FPGA:** Verilog HDL, RTL Design, Xilinx Vivado, Vitis HLS, PYNQ-Z2
+
+**Tools:** VS Code, Google Colab, GitHub
 
 ---
 
-## 📈 Currently Learning
+## 📚 Currently Learning
 
-- 🇩🇪 German *(Ich lerne Deutsch selbst)*  
-- Full Stack Development  
-- Mastering VLSI Design Flow  
-- Automation & Bot Development  
+- Data Engineering fundamentals and advanced SQL
+- ETL pipelines and data warehousing
+- Cloud-based data systems
+- Data Structures and Algorithms
+- Advanced RTL Design and FPGA development
+- German 🇩🇪
 
 ---
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=aroycenirangeorge)
+## 📊 GitHub & Coding Profiles
 
-## 📊 GitHub Stats
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=aroycenirangeorge&color=blue)
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aroycenirangeorge&theme=dark)
+![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aroycenirangeorge&theme=github_dark)
+
 ![GitHub Contributions](https://ghchart.rshah.org/aroycenirangeorge)
 
----
-
-## 💻 LeetCode Stats  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/AJ-Nira?theme=dark&ext=contest)](https://leetcode.com/AJ-Nira/)  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/AJ-Nira?theme=dark&ext=contest)](https://leetcode.com/AJ-Nira/)
 
 ---
-
 
 ## 🤝 Let's Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ajroycenirangeorge">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:aj.roycenirangeorge@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://aroycenirangeorge.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Now-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/aroycenirangeorge">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://leetcode.com/AJ-Nira/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
 
 ---
 
-> *"Dreams are not what you see in your sleep. Dreams are things which do not let you sleep."* — **Dr. A.P.J. Abdul Kalam**  
+> "Dreams are not what you see in your sleep. Dreams are things which do not let you sleep."
+>
+> — Dr. A.P.J. Abdul Kalam
 
----
-
-<p align="center">✨ Made with All Love, No Hate — N!RA ✨</p>
+<p align="center">✨ Made with curiosity, code, and a little bit of N!RA ✨</p>
