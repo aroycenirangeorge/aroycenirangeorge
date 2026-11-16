@@ -26,8 +26,8 @@ Alongside software and data engineering, I continue to explore VLSI design and F
 
 ## 🏆 Achievements
 
-- 🥈 **Second Runner-up** — SAKEC Chipmonk National Hackathon 2026.
-- 🚀 **ARM Bharath FPGA Hackathon 2026** — Developed a CNN-based vehicle classification accelerator achieving 89.6% accuracy and approximately 130× speedup over the ARM Cortex-A9 baseline.
+- 🥈 **Second Runner-up** - SAKEC Chipmonk National Level Hackathon'26 @ Mumbai, India
+- 🚀 **Top 5** - Agentic AI for Life Sciences Challenges, IITH x Hexaware @ Hyderabad, India
 
 ---
 
