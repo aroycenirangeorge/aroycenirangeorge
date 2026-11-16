@@ -27,7 +27,7 @@ Alongside software and data engineering, I continue to explore VLSI design and F
 ## 🏆 Achievements
 
 - 🥈 **Second Runner-up** - SAKEC Chipmonk National Level Hackathon'26 @ Mumbai, India
-- 🚀 **Top 5** - Agentic AI for Life Sciences Challenges, IITH x Hexaware @ Hyderabad, India
+- 🚀 **Top 5** - IITH x Hexaware Agentic AI for Life Sciences Innovation Challenge @ Hyderabad, India
 
 ---
 
